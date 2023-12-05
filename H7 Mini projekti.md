@@ -2,7 +2,7 @@
 
 Valitsin projektikseni VLC:n ja kustomoidut configuraatiot siihen.
 Halusin vähän rääkätä itseäni lisää ennen lomaa, joten käytän Tehtävässä 6 asennettua W10 virtuaalikonetta https://github.com/CisuX/Palvelinten-hallinta/blob/main/H6.md
-Tehtävässä asennettiin salt orja windowsille. Top.sls tiedosto on jo valmiina, sinne lisätään nyt vain tavaraa.
+Top.sls tiedosto on jo valmiina, sinne lisätään nyt vain tavaraa.
 
 ![image](https://github.com/CisuX/Palvelinten-hallinta/assets/59264168/7a9b3ff2-717b-4aee-a6f6-70cdacd42f62)
 
